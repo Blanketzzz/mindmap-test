@@ -1,5 +1,5 @@
 ```mermaid
-
+%%{init: {'theme':'neutral'}}%%
 mindmap
   root((Convex Optimization Theory))
 

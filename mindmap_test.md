@@ -1,4 +1,5 @@
 ```mermaid
+
 mindmap
   root((Convex Optimization Theory))
 

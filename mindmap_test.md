@@ -7,25 +7,25 @@ mindmap
       Decision variables
       Constraints
       Standard form
-        minimize f(x)
-        subject to g_i(x) <= 0
-        h_i(x) = 0
+        minimize f of x
+        subject to inequality constraints
+        equality constraints
 
     Convexity
       Convex set
-        Line segment between any two points stays in the set
+        line segment between any two points stays in the set
       Convex function
-        f(tx + (1-t)y) <= t f(x) + (1-t) f(y)
+        convex combination property
       Properties
-        Local minimum = global minimum
-        Efficient optimization possible
+        local minimum equals global minimum
+        efficient optimization possible
 
     Classes of Problems
       Continuous optimization
         Linear programming
         Nonlinear optimization
           Convex problems
-            Least-squares problem
+            Least squares problem
           Nonconvex problems
             Local optimization
             Global optimization
@@ -36,7 +36,7 @@ mindmap
     Algorithms
       Gradient descent
       Newton method
-      Interior-point methods
+      Interior point methods
       Subgradient methods
 
     Applications
